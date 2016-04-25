@@ -6,3 +6,7 @@ I'm very excited to start practicing with github, and sharing my terrible early 
 Hello world.
 
 Hello indeed.
+
+Hello back, my friend!
+
+Whoa world, you speak!
